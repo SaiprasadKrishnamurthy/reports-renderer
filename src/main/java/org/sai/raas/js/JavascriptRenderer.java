@@ -1,8 +1,8 @@
-package org.sai.reportsrenderer.js;
+package org.sai.raas.js;
 
 import org.apache.commons.io.IOUtils;
 import org.mozilla.javascript.*;
-import org.sai.reportsrenderer.model.SVGProvider;
+import org.sai.raas.model.SVGProvider;
 
 import java.io.IOException;
 import java.io.InputStream;

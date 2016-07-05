@@ -1,4 +1,4 @@
-package org.sai.reportsrenderer.model;
+package org.sai.raas.model;
 
 import java.io.IOException;
 
